@@ -88,6 +88,10 @@ No build process required - this is a pure JavaScript Chrome extension.
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
+## Repository
+
+[https://github.com/nnnnicholas/youtube-copy-transcript-extension](https://github.com/nnnnicholas/youtube-copy-transcript-extension)
+
 ## Known Limitations
 
 - Only works on YouTube videos that have captions/transcripts available

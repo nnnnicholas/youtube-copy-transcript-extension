@@ -28,7 +28,7 @@ A simple Chrome extension that allows you to copy the full transcript of any You
 2. Click the extension icon in your Chrome toolbar
 3. The transcript will be copied to your clipboard automatically
 4. The icon will briefly show:
-   - ✅ Green checkmark for success
+   - ✅ Red checkmark for success
    - ❌ Red X for failure
 
 ### Troubleshooting

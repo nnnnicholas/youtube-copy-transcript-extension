@@ -1,0 +1,15 @@
+{
+  "name": "Copy YouTube Transcript",
+  "description": "One-click copy of the full transcript of the current YouTube video.",
+  "version": "1.1.1",
+  "manifest_version": 3,
+  "permissions": ["activeTab", "scripting", "clipboardWrite"],
+  "background": { "service_worker": "background.js" },
+  "action": { "default_title": "Copy transcript to clipboard" },
+  "icons": {
+    "16": "icon16.png",
+    "32": "icon32.png",
+    "48": "icon48.png",
+    "128": "icon128.png"
+  }
+}
